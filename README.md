@@ -2,9 +2,9 @@
 
 
 
-# -  👩🏻‍💻 Dev Front-End
-# -  💻 Estudante de ciências da computação
-# - 🎮👾 Consumo conteúdo Geek 
+-  👩🏻‍💻 Dev Front-End
+-  💻 Estudante de ciências da computação
+- 🎮👾 Consumo conteúdo Geek 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
