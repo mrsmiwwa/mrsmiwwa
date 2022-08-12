@@ -18,7 +18,7 @@
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="right" alt="Mari-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/691374521059377262/1007455697212018688/download20220804220627.png?width=427&height=427">
+  <img align="right" alt="Mari-pic" height="130" style="border-radius:50px;" src="https://media.discordapp.net/attachments/691374521059377262/1007455697212018688/download20220804220627.png?width=427&height=427">
 </div>
 
 ## 
