@@ -3,7 +3,7 @@
 
 
  👩🏻‍💻 Dev Front-End
- 💻 Estudante de ciências da computação
+ 💻 Estudante de Análise em desenvolvimento de sistemas 
 
 <div align="center">
   <a href="https://github.com/mrsmiwwa">
